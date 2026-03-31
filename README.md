@@ -1,8 +1,6 @@
 # Olá, eu sou o Fabrício! 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Engenharia%20de%20Software&fontSize=40&animation=fadeIn" />
-</p>
+
 
 ## 🚀 Sobre Mim
 Estudante de **Engenharia de Software** apaixonado por transformar lógica em solução. Atualmente, divido meu tempo entre aprender novas tecnologias e compartilhar conhecimento.
