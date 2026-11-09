@@ -8,7 +8,7 @@ Estudante de **Engenharia de Software** apaixonado por transformar lógica em so
 ---
 
 ## 🏛️ Onde me encontro
-* 🧑‍💼 **Trabalho: **Atualmente trabalho na empresa S.Forti localizada em londrina, onde dou suporte aos clientes e aprendo desde html até php entre outros.
+* 🧑‍💼 **Trabalho**:Atualmente trabalho na empresa S.Forti localizada em londrina, onde dou suporte aos clientes e aprendo desde html até php entre outros.
 * 👨🏻‍💻 **Grupo de Estudos NPI (UniFil):** Focado em desenvolvimento e pesquisa acadêmica.
 * 👨🏻‍🏫 **Monitoria:** Auxiliei alunos no **Londrinense Tech** e em **Pensamento Computacional**.
 * 📍 Localizado em: **Londrina, PR**.
